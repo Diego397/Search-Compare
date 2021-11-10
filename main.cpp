@@ -3,7 +3,7 @@
 #include <chrono>
 #include <iostream>
 #include <string.h>
-#include "instancias_Reais_Trabalho_2.hpp"
+#include "instances.hpp"
 
 using namespace std;
 
